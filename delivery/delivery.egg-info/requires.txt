@@ -1,3 +1,6 @@
+flask
+
+[dev]
 black
 flask-debugtoolbar
 flask-shell-ipython
